@@ -16,7 +16,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Theme settings
-THEME = 'E:/blog/themes/notmyidea'
+THEME = "themes/notmyidea"
 
 # Category settings
 CATEGORIES = [
