@@ -27,7 +27,7 @@ jobs:
 
     - name: Deploy to GitHub Pages using PAT
       env:
-        TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+        TOKEN: ${{ secrets.HAIMING }}
       run: |
         git config --global user.name "haiminggroup"
         git config --global user.email "haiminggroup@gmail.com"
