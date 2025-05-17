@@ -32,4 +32,7 @@ jobs:
         git config --global user.name "haiminggroup"
         git config --global user.email "haiminggroup@gmail.com"
         ghp-import output -b gh-pages
-        git push https://$TOKEN@github.com/${{ github.repository }} gh-pages
+        git push https://$TOKEN@github.com/${{ github.repository }} gh-pages --force
+
+
+    
