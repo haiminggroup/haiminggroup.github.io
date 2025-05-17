@@ -8,6 +8,10 @@ TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'English'
 
+PAGE_URL = 'pages/{slug}.html'
+PAGE_SAVE_AS = 'pages/{slug}.html'
+
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
