@@ -55,8 +55,6 @@ AUTHORS = {
     }
 }
 
-AUTHOR_SAVE_AS = ''
-AUTHORS_SAVE_AS = ''
 
 
 # Page settings
