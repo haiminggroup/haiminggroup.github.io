@@ -28,5 +28,11 @@ jobs:
 
       - name: Deploy to GitHub Pages
         run: |
-          ghp-import output -b gh-pages -p
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          ghp-import output -b gh-pages
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
