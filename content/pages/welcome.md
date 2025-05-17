@@ -3,6 +3,7 @@ Date: 2024-03-20
 Category: Home
 Slug: welcome
 Save_as: index.html
+Status: hidden
 
 # Welcome to Our Blog
 
