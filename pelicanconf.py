@@ -54,6 +54,7 @@ AUTHORS = {
         'image': 'images/authors/wenxiang.jpg'
     }
 }
+AUTHOR_SAVE_AS = lambda author: '' if author == '_hidden' else 'author/{}.html'.format(author)
 
 # Page settings
 PAGES_MENU = True
