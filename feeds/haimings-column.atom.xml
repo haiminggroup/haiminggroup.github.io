@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Haiming Group - Haiming's Column</title><link href="/" rel="alternate"></link><link href="/feeds/haimings-column.atom.xml" rel="self"></link><id>/</id><updated>2024-03-20T00:00:00+00:00</updated><entry><title>Haiming's First Article</title><link href="/haimings-first-article.html" rel="alternate"></link><published>2024-03-20T00:00:00+00:00</published><updated>2024-03-20T00:00:00+00:00</updated><author><name>haiming</name></author><id>tag:None,2024-03-20:/haimings-first-article.html</id><content type="html">&lt;h1&gt;Haiming's First Article&lt;/h1&gt;
+&lt;p&gt;This is my first article, focusing on technical topics.&lt;/p&gt;
+&lt;h2&gt;Main Content&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Technical Sharing&lt;/li&gt;
+&lt;li&gt;Experience Summary&lt;/li&gt;
+&lt;li&gt;Future Outlook&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Welcome to read and comment! &lt;/p&gt;</content><category term="Haiming's Column"></category><category term="technology"></category><category term="sharing"></category></entry><entry><title>Haiming's Second Article</title><link href="/haimings-second-article.html" rel="alternate"></link><published>2024-03-20T00:00:00+00:00</published><updated>2024-03-20T00:00:00+00:00</updated><author><name>haiming</name></author><id>tag:None,2024-03-20:/haimings-second-article.html</id><content type="html">&lt;h1&gt;Haiming's Second Article&lt;/h1&gt;
+&lt;p&gt;This is my second article, sharing research insights.&lt;/p&gt;
+&lt;h2&gt;Research Content&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Research Methods&lt;/li&gt;
+&lt;li&gt;Data Analysis&lt;/li&gt;
+&lt;li&gt;Discussion and Conclusions&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Hope this content is helpful to you! &lt;/p&gt;</content><category term="Haiming's Column"></category><category term="research"></category><category term="insights"></category></entry></feed>

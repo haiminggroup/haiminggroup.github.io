@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Haiming Group - Yue's Column</title><link href="/" rel="alternate"></link><link href="/feeds/yues-column.atom.xml" rel="self"></link><id>/</id><updated>2024-03-20T00:00:00+00:00</updated><entry><title>Yue's First Article</title><link href="/yues-first-article.html" rel="alternate"></link><published>2024-03-20T00:00:00+00:00</published><updated>2024-03-20T00:00:00+00:00</updated><author><name>yue</name></author><id>tag:None,2024-03-20:/yues-first-article.html</id><content type="html">&lt;h1&gt;Yue's First Article&lt;/h1&gt;
+&lt;p&gt;This is my first article, sharing technical experience.&lt;/p&gt;
+&lt;h2&gt;Technical Sharing&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Technical Points&lt;/li&gt;
+&lt;li&gt;Practical Experience&lt;/li&gt;
+&lt;li&gt;Important Notes&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Welcome to discuss! &lt;/p&gt;</content><category term="Yue's Column"></category><category term="technology"></category><category term="sharing"></category></entry><entry><title>Yue's Second Article</title><link href="/yues-second-article.html" rel="alternate"></link><published>2024-03-20T00:00:00+00:00</published><updated>2024-03-20T00:00:00+00:00</updated><author><name>yue</name></author><id>tag:None,2024-03-20:/yues-second-article.html</id><content type="html">&lt;h1&gt;Yue's Second Article&lt;/h1&gt;
+&lt;p&gt;This is my second article, discussing project collaboration.&lt;/p&gt;
+&lt;h2&gt;Project Collaboration&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Team Collaboration&lt;/li&gt;
+&lt;li&gt;Project Management&lt;/li&gt;
+&lt;li&gt;Experience Summary&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Looking forward to sharing more with you! &lt;/p&gt;</content><category term="Yue's Column"></category><category term="project"></category><category term="collaboration"></category></entry></feed>

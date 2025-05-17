@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Haiming Group - Wenxiang's Column</title><link href="/" rel="alternate"></link><link href="/feeds/wenxiangs-column.atom.xml" rel="self"></link><id>/</id><updated>2024-03-20T00:00:00+00:00</updated><entry><title>Wenxiang's First Article</title><link href="/wenxiangs-first-article.html" rel="alternate"></link><published>2024-03-20T00:00:00+00:00</published><updated>2024-03-20T00:00:00+00:00</updated><author><name>wenxiang</name></author><id>tag:None,2024-03-20:/wenxiangs-first-article.html</id><content type="html">&lt;h1&gt;Wenxiang's First Article&lt;/h1&gt;
+&lt;p&gt;This is my first article, sharing project experience.&lt;/p&gt;
+&lt;h2&gt;Project Experience&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Project Overview&lt;/li&gt;
+&lt;li&gt;Technical Implementation&lt;/li&gt;
+&lt;li&gt;Experience Summary&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Welcome to discuss! &lt;/p&gt;</content><category term="Wenxiang's Column"></category><category term="project"></category><category term="technology"></category></entry><entry><title>Wenxiang's Second Article</title><link href="/wenxiangs-second-article.html" rel="alternate"></link><published>2024-03-20T00:00:00+00:00</published><updated>2024-03-20T00:00:00+00:00</updated><author><name>wenxiang</name></author><id>tag:None,2024-03-20:/wenxiangs-second-article.html</id><content type="html">&lt;h1&gt;Wenxiang's Second Article&lt;/h1&gt;
+&lt;p&gt;This is my second article, exploring technical innovation.&lt;/p&gt;
+&lt;h2&gt;Innovation Content&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Innovation Ideas&lt;/li&gt;
+&lt;li&gt;Implementation Methods&lt;/li&gt;
+&lt;li&gt;Application Scenarios&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Hope this content is helpful to you! &lt;/p&gt;</content><category term="Wenxiang's Column"></category><category term="technology"></category><category term="innovation"></category></entry></feed>
