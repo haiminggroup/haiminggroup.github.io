@@ -4,6 +4,7 @@ Category: Home
 Slug: index
 Save_as: index.html
 Status: hidden
+Author: none
 
 # Welcome to Our Blog
 
